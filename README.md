@@ -38,3 +38,7 @@ A：不需要，完全本地运行。
 
 **Q：支持哪些系统？**
 A：Windows 10 / 11。
+
+## License
+
+[MIT](LICENSE) © HeHaoren
